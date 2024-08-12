@@ -1,0 +1,169 @@
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.exe.config
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.exe
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.pdb
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ZedGraph.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ZedGraph.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.AssemblyReference.cache
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.Form1.resources
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.Properties.Resources.resources
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.GenerateResource.cache
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.CoreCompileInputs.cache
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_.8E9FE215.Up2Date
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.exe
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.pdb
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Azure.Core.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\GrapeCity.DataVisualization.Chart.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Abstractions.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Std.UriTemplate.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Buffers.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.Data.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Json.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.ValueTuple.dll
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Azure.Core.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Abstractions.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Multipart.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Buffers.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.Data.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Json.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.ValueTuple.xml
+C:\Users\irem\source\repos\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh\GrapeCity.DataVisualization.Chart.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.exe.config
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.exe
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Bulanik_Mantik.pdb
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Azure.Core.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\GrapeCity.DataVisualization.Chart.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Graph.Core.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Abstractions.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Std.UriTemplate.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Buffers.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.Data.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Json.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.ValueTuple.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Azure.Core.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Graph.Core.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Abstractions.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Authentication.Azure.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Http.HttpClientLibrary.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Form.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Json.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Multipart.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\Microsoft.Kiota.Serialization.Text.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Buffers.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Memory.Data.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Text.Json.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\System.ValueTuple.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ZedGraph.xml
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh\GrapeCity.DataVisualization.Chart.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.AssemblyReference.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.Form1.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.Properties.Resources.resources
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.GenerateResource.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.csproj.CoreCompileInputs.cache
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_.8E9FE215.Up2Date
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.exe
+C:\Users\Adem\Desktop\Yeni klasör\C# çalışmaları\Bulanik_Mantik\Bulanik_Mantik\obj\Debug\Bulanik_Mantik.pdb
